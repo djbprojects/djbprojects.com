@@ -1,5 +1,5 @@
 date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-09:57:55	27178/27178	---MCZ	200	added ('OK')	text/html	date:Tue,%2019%20Nov%202024%2008:57:55%20GMT	https://djbproject.jimdoweb.com/	D:/Websites/Copier2/DJB%20Projects/index-2.html	(from )
+09:57:55	27178/27178	---MCZ	200	added ('OK')	text/html	date:Tue,%2019%20Nov%202024%2008:57:55%20GMT	https://djbproject.jimdoweb.com/	D:/Websites/Copier2/DJB%20Projects/index.html	(from )
 09:58:17	1937/1937	---M--	200	added ('OK')	image/png	etag:%226733a7aa-791%22	https://u.jimcdn.com/cms/o/s6c0c3830851e0a11/img/favicon.png?t=1492957159	D:/Websites/Copier2/DJB%20Projects/cms/o/s6c0c3830851e0a11/img/favicona485.png	(from https://djbproject.jimdoweb.com/)
 09:58:18	2106/2106	---M-Z	200	added ('OK')	text/javascript	etag:%226d7b9438011af76dfd45e171d50e7bfd%22	https://assets.jimstatic.com/ckies.js.342ad3c77343efa51804.js	D:/Websites/Copier2/DJB%20Projects/ckies.js.342ad3c77343efa51804.js	(from https://djbproject.jimdoweb.com/)
 09:58:18	25673/25673	---M-Z	200	added ('OK')	text/javascript	etag:%2292d8145ed92af199873a2d3b92e2d754%22	https://assets.jimstatic.com/cookieControl.js.4e56759d0f34152b0100.js	D:/Websites/Copier2/DJB%20Projects/cookieControl.js.4e56759d0f34152b0100.js	(from https://djbproject.jimdoweb.com/)
